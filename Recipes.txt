@@ -5,5 +5,8 @@ Kheer
 Pasta
 Fish
 
+Beans
+Pizza
+
 
 Thank you
